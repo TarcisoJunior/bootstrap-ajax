@@ -28,3 +28,7 @@ The usr_validate function is just an example of modal using. You must write your
 #Nota
 A função usr_validate é apenas um exemplo de uso do modal. Você terá que escrever sua própria rotina de validação de acesso.
 # bootstrap-ajax
+
+Checkout live demo <a href="http://www.tarcisojunior.com.br/bootstrap-ajax">here</a>
+
+Veja o exemplo publicado <a href="http://www.tarcisojunior.com.br/bootstrap-ajax">aqui</a>
