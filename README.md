@@ -8,7 +8,9 @@ Esse é apenas um exemplo inicial de uso do bootstrap com ajax, apenas para estu
 \index.html - main file, with header, menu, footer and library declarations
 
 \home - home html file
+
 \about - about html file
+
 \contact - contact html file
 
 \js\index.js - html load and user validation functions
@@ -17,7 +19,9 @@ Esse é apenas um exemplo inicial de uso do bootstrap com ajax, apenas para estu
 \index.html - arquivo principal, com os cabeçalhos, menu, rodapé e declarações de bibliotecas
 
 \home - arquivo html
+
 \about - arquivo html
+
 \contact - arquivo html
 
 \js\index.js - funções para carregamento dos trechos de html e validação de usuário 
